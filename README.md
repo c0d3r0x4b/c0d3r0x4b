@@ -93,32 +93,4 @@ print(dev.build())
 
 ### ⚡ Code • Build • Automate • Repeat
 
-</div></a>
-
-<a href="mailto:nytheonai@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Code • Build • Automate • Repeat
-
-</div></a>
-
-<a href="mailto:nytheonai@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Code • Build • Automate • Repeat
-
 </div>
