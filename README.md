@@ -9,11 +9,25 @@
 
 <img src="https://komarev.com/ghpvc/?username=c0d3r0x4b&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
+<img src="https://img.shields.io/github/followers/c0d3r0x4b?style=for-the-badge&logo=github&color=black" />
+
+<img src="https://img.shields.io/github/stars/c0d3r0x4b?style=for-the-badge&logo=github&color=yellow" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
+
+---
+
+## ⚡ Live Terminal
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=%24+whoami;t.me%2Fc0d3r0x4b;%24+cat+about.txt;AI+Developer;Software+Developer;Backend+Engineer;%24+python+main.py;Building+intelligent+systems+%F0%9F%9A%80" />
+</p>
 
 ---
 
@@ -23,7 +37,7 @@
 ┌──(root㉿kali)-[~/whoami]
 └─$ whoami
 
-c0d3r0x4b
+t.me/c0d3r0x4b
 
 > AI Developer
 > Software Developer
