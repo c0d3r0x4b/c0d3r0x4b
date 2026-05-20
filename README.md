@@ -3,31 +3,35 @@
 # 👨‍💻 c0d3r0x4b
 ### AI Developer • Software Developer • Backend Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Software+Developer;Backend+Engineer;Building+AI+Systems;Automation+%26+Backend+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Software+Developer;Backend+Engineer;Linux+Enthusiast;Building+Intelligent+Systems;Automation+%26+Backend+Developer" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=c0d3r0x4b&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
+<img src="https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-```yaml
-Name: c0d3r0x4b
+```bash
+┌──(root㉿kali)-[~/whoami]
+└─$ whoami
 
-Roles:
-  - AI Developer
-  - Software Developer
-  - Backend Engineer
+c0d3r0x4b
 
-Focus:
-  - Artificial Intelligence
-  - Backend Development
-  - Automation Systems
-  - Android Development
+> AI Developer
+> Software Developer
+> Backend Engineer
+
+Building intelligent systems, automation frameworks,
+backend infrastructures, and futuristic software
+focused on performance, scalability, and AI.
 ```
 
 ---
@@ -36,19 +40,7 @@ Focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,cs,nodejs,fastapi,flask,mongodb,mysql,firebase,docker,linux,git,github,vscode,androidstudio" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=c0d3r0x4b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0d3r0x4b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,cs,nodejs,fastapi,flask,mongodb,mysql,firebase,docker,linux,git,github,vscode,androidstudio,bash" />
 
 </div>
 
@@ -100,6 +92,6 @@ print(dev.build())
 
 <div align="center">
 
-### 🚀 Code • Build • Innovate
+### ⚡ Code • Build • Automate • Repeat
 
 </div>
