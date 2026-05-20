@@ -17,21 +17,12 @@
 
 ---
 
-## ⚡ Live Terminal
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=260&lines=%24+whoami;t.me%2Fc0d3r0x4b;%24+cat+logo.txt;++;__++__+___+++_++__;%7C++%5C%2F++%7C+_+%5C+%7C+%7C%2F+%2F;%7C+%7C%5C%2F%7C+%7C++%2F_%7C+'+%3C+;%7C+_%7C++%7C+_%7C_%7C(_)%7C_%5C_%5C;%24+python+main.py;Building+intelligent+systems+%F0%9F%9A%80" />
-</p>
-
----
 
 ## ⚡ About Me
 
 ```bash
 ┌──(root㉿kali)-[~/whoami]
 └─$ whoami
-
-t.me/c0d3r0x4b
 
 > AI Developer
 > Software Developer
@@ -89,6 +80,20 @@ print(dev.build())
 <a href="https://t.me/c0d3r0x4b">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
+<a href="mailto:nytheonai@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code • Build • Automate • Repeat
+
+</div></a>
 
 <a href="mailto:nytheonai@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
